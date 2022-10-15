@@ -1,0 +1,1 @@
+This is team DAVID OJIMAOJO and  BUKMFONABASI EKOT printf task, in this task we will be working together on Writing a function that produces output according to a format, Handle the following conversion specifiers and some advanced task with we don't have access to now till we are done with the first two. THANK YOU
